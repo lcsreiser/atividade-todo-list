@@ -1,0 +1,7 @@
+.everyTodo{
+    display: flex;
+}
+
+.liTodo{
+    margin-right: 20px;
+}
